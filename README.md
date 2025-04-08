@@ -12,9 +12,23 @@ The puzzle consists of a rectangular grid of symbols, and the goal is to determi
 
 ---
 
+## 📁 Files
+project.lp → ASP program that implements the solver
+
+input.lp → Sample input grid
+
+Report.pdf → 📄 Detailed explanation of logic, methodology, testing, and ethical reflections
+
 ## 🚀 How to Run
 
 Make sure you have [**Clingo**](https://potassco.org/clingo/) installed (e.g. version 5.7.1), then run:
 
 ```bash
 clingo project.lp input.lp
+```
+
+---
+
+
+📄 Full Report
+For a complete breakdown of the approach, logic, constraints implementation and ethical reflections, see Report.pdf
