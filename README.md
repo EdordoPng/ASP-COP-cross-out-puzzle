@@ -1,6 +1,3 @@
-# cross-out-puzzle-ASP
-Detailed workflow of how approach and solve a Constraint Optimization Problem using Answer Set Programming
-
 # 🧠 Cross-out Puzzle Solver (ASP)
 
 This project implements a solver for the **Cross-out Puzzle**, using **Answer Set Programming (ASP)** with **Clingo**.
